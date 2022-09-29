@@ -1,0 +1,51 @@
+.charactercard {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 50px;
+}
+
+.charactercarddiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 30px;
+}
+
+.charactercarddiv img {
+    width: 400px;
+    height: 400px;
+}
+
+.main {
+    background-color: black;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border: none;
+    border-radius: 0px 0px 3px 3px;
+}
+
+.main div {
+    margin-top: 10px;
+    font-weight: 17px;
+    font-weight: 600;
+
+}
+
+.charactercarddiv a {
+    padding: 5px 30px;
+    width: 200px;
+    height: 35px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+;
